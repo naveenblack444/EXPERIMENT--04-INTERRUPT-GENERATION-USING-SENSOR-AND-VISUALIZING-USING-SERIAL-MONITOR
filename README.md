@@ -167,7 +167,7 @@ PUTCHAR_PROTOTYPE{
 
 ## Output screen shots of serial port utility   :
  
- ![WhatsApp Image 2025-09-20 at 15 34 38_de7b8cc1](https://github.com/user-attachments/assets/003d36b1-c06d-4ecb-aa24-3d4da183e29e)
+<img width="1029" height="539" alt="image" src="https://github.com/user-attachments/assets/eb0d39c7-8b68-4fed-8586-e1fd9189c441" />
 
  ## Circuit board :
  
